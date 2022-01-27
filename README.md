@@ -1,5 +1,4 @@
-In this project, Continous Integration(CI) is implemented using Git as well as CI/CD is also implemented using Jenkins.
-The CI implementation using Git is done by writing the python-package.yml file which is in .github/workflows directory.
+In this project, Continous Integration(CI) is implemented using Git as well as CI/CD is also implemented using Jenkins. 
 CI/CD pipeline is created based on the written Jenkinsfile which is implemented using the Jenkins server. 
 Finally the application is deployed as a service on AWS Elastic BeanStalk.
 
